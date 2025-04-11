@@ -311,8 +311,12 @@ ol {
   outline: 1px solid #fff;
 }
 
+.content__card-link_current {
+  background-color: #545050;
+}
+
 .content__card-link:active {
-  background-color: #545050; /*цвет не заимствует белый цвет при клике*/
+  background-color: #545050;
 }
 
 .content__video-card {
